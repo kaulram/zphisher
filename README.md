@@ -14,7 +14,7 @@
 <a href="https://github.com/htr-tech/followers"><img title="Followers" src="https://img.shields.io/github/followers/htr-tech?color=blue&style=flat-square"></a>
 <a href="https://github.com/htr-tech/zphisher/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/htr-tech/zphisher?color=red&style=flat-square"></a>
 <a href="https://github.com/htr-tech/zphisher/network/members"><img title="Forks" src="https://img.shields.io/github/forks/htr-tech/zphisher?color=red&style=flat-square"></a>
-<a href="https://github.com/htr-tech/zphisher/watchers"><img title="Watching" src="https://github.com/kaulram/zphisher/blob/main/pn.png"></a>
+<a href="https://github.com/htr-tech/zphisher/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/htr-tech/zphisher?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## Installation :
