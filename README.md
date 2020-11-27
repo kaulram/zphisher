@@ -32,8 +32,8 @@ apt update ; apt install git curl wget php -y ; git clone git://github.com/kaulr
 ```
 <br>
 <p align="center">
-<img width="40%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher1.png"/>
-<img width="42%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher02.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/73631335/100415114-5d699300-30a1-11eb-8c48-8c264c73221c.png"/>
+<img width="42%" src="https://user-images.githubusercontent.com/73631335/100415117-5e9ac000-30a1-11eb-900d-cc6ca7ef3870.png"/>
 </p>
 
 ### <<< If you copy , Then Give me The Credits >>>
