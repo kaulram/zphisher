@@ -1,5 +1,5 @@
 <p align="left">
-<a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Made in Vijay" src="https://raw.githubusercontent.com/kaulram/lightenonlineshop.in/26068ac13845af87c45d0374610795c19199c0e6/assets/css/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d414445253230494e2d42414e474c41444553482d677265656e3f636f6c6f72413d25323366663030303026636f6c6f72423d253233303137653430267374796c653d666f722d7468652d62616467.svg"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Zphisher" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/zphisher.png"></a>
